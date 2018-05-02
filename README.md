@@ -62,6 +62,15 @@ How, What and Why - A lot of links to study about algorithms, HTML and CSS, Java
 * External Links
     * https://medium.com/dailyjs/how-to-prevent-your-node-js-process-from-crashing-5d40247b8ab2 
 
+### NoSQL
+
+* What's
+* Why
+* NoSQL vs. Relational
+* Mongo
+* Redis
+* ...
+
 ### Unit Test
 
 * External Links
